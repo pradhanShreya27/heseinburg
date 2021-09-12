@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776936418234",
+    "project_id": "heisenburg-e1be0",
+    "storage_bucket": "heisenburg-e1be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776936418234:android:c82bcd8279f7e4e3c68b83",
+        "android_client_info": {
+          "package_name": "com.oreo.heisenburg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776936418234-6gm8chjfm1mv7ictm7c6d7hir4n8b1gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr6RUqZRK1E2E3PA3HhqJeUwh3vtETTTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776936418234-6gm8chjfm1mv7ictm7c6d7hir4n8b1gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
